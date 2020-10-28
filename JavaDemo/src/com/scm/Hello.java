@@ -7,7 +7,7 @@ public class Hello {
 		i=10;
 		j=12;
 		
-		System.out.println("hello world"+" "+(i+j)+"added");
+		System.out.println("hello world"+" "+(i+j)+"added"+"git added");
 	}
 
 }
